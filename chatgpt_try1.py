@@ -5,8 +5,7 @@ openai.organization = "org-mrxnAgaiysJ9WO4bQtgZvqrI"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 model_engine = "text-davinci-003"
-prompt =
-"""
+prompt = """
 Write a rehome bulletin for a cat.
 The cat's name is Meow-Meow.
 She is a beautiful black and white Siberian cat.
