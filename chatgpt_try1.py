@@ -15,7 +15,7 @@ Other cats can be mean to her, although Butch for example is oblivious and Meow-
 I've seen her interacting with a bunny fine, so she may get along with other pets though.
 She needs shelter especially for the night sometimes and when the weather is bad.
 Without that she sadly resort to hide under cars which is heart breaking.
-She lived in the countryside and was a baarn cat for many years but due to life changing circumnstances the owner had to move so Meow-Meow lost her barn, and she is now around the apartment complex.
+She lived in the countryside and was a baarn cat for many years but due to life changing circumstances the owner had to move so Meow-Meow lost her barn, and she is now around the apartment complex.
 When she is inside she requests to be let outside when it's time to do her business.
 Anyone interested can email asiandeltas@gmail.com.
 Write the bulletin in first person and in a bubbly, friendly, affectionate tone.
